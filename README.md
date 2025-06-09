@@ -8,8 +8,8 @@ addition, subtraction, increment, decrement, logical shifts, rotates, and variou
 making it suitable for diverse computing applications.
 
 - OBJECTIVES 
-o   To implement an efficient and versatile ALU using Verilog that supports multiple arithmetic 
+1) To implement an efficient and versatile ALU using Verilog that supports multiple arithmetic 
 and logical operations. 
-o   To structure the ALU using modular and parameterized design principles for scalability and 
-reuse. 
-o   To thoroughly test and confirm the correctness of the ALU using a detailed verification plan.
+2) To structure the ALU using modular and parameterized design principles for scalability and 
+reuse.
+3) To thoroughly test and confirm the correctness of the ALU using a detailed verification plan.
